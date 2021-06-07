@@ -1,0 +1,24 @@
+In this assignment we're going to use everything we learnt in the first assignment, and build on top of that.
+
+Some clues on this assignment are found in the changing-text.md and text-objects.md.
+
+We're going to use the different modes to our advantage, and do some actions on the text from within them. So, lets start with some simple things.
+
+
+This sentence is missing a period at the end of it, add the period at the end, but you can only use two keystrokes while your cursor is at the beginning of the line
+
+This sentence should start with an asterisk (*), but it doesn't at the moment. You need to insert the asterisk at the beginning of this line, but only with two keystrokes while the cursor is at the end of this line.
+
+This paragraph has a lot of text in it. We're going to do some basic manipulation on it. Some things to note for this paragraph is, that words with underscores before and after the words (or sentences) should be deleted, words with asterisks (*) should be replaced with something else. I hope this is _is_ enough information *to* you so that you can perform _reform_ the necessary changes. _This whole sentence should be deleted btw_. This sentence starts out very well, *but continues very poorly, and it should be changed to something else starting for the first asterisk*, and it still continues, so this sentence is quite complex.
+
+After you have modified the previous paragraph, copy and paste it below this sentence, but you can only use three keystrokes to copy the whole paragraph.
+
+
+
+
+
+Now we work on different matching pairs of things, such as double quotes, parenthesis, brackets and braces.
+
+This paragraph will include some text within "quites", (typo there of course), and [basic python lists] or {python sets}. These aren't really that, but bear with me. Now I want you to try to 'select text within the pairs' of things, copy and paste, delete them if you don't like them, replace them with something else, etc. You can also try to do something with these HTML tags <em>italic</em> <p>This is a paragraph</p>.
+
+There's a lot of things you can do with the vim language, and it's all about just getting used to the commands. Just keep practicing on the paragraph selections, sentence selections and "pair selections".

@@ -1,0 +1,46 @@
+In this assignment we're going to be using the visual mode, macros and registers to get familiar with them.
+
+We will have some text that you can select, modify etc. 
+
+Below you will find a shopping list, that should have a dash (-) at the beginning of the line. The list can be fixed in a few different ways. We'll have the same list here a couple of times, and you should use at least visual selection, the repeatable command and record a macro and apply it to the list.
+
+
+Shopping list (visual selection):
+Eggs
+Milk
+Cheese
+Ham
+Toilet paper
+Bread
+Soap
+
+Shopping list (repeatable command):
+Eggs
+Milk
+Cheese
+Ham
+Toilet paper
+Bread
+Soap
+
+Shopping list (macro):
+Eggs
+Milk
+Cheese
+Ham
+Toilet paper
+Bread
+Soap
+
+
+Paste below the output of the system command ls by using the expression register:
+
+
+
+
+
+
+
+Paste the current file path by using the percent register: 
+
+Copy this URL: https://www.openvim.com/ into the clipboard register and paste it in your browser's address bar.
