@@ -52,4 +52,32 @@ Write your changes and exit vim: `:wq`
 Save your file as: `:saveas /path/where/to`
 Faster way to do `:wq`: `ZZ`
 
+## Configuration
+
+Vim configuration is something of an endless swamp, where once you get into, it's really hard to stop. For this workshop, we'll just start out with a minimalistic configuration. If you have vim already configured to your liking, it's fine, continue using that, but for those who doesn't have a sane configuration file, I'll provide the simple one here.
+
+The vim configuration file exists at `~/.vimrc` or `~/.vim/vimrc`. You can type in `:version` to print out information about the locations.
+Also `:scriptnames` will print out locations of different script files that vim has loaded.
+
+The vim configuration file is just a line by line set up of commands to execute during startup. The double quote (") is a comment, and anything after the quote is ignored.
+
+```
+set nocompatible                " good to have as first line, see :h nocompatible
+set backspace=indent,eol,start  " backspace can move beyond eol, indent and start of line
+set whichwrap+=<,>,h,l          " allow <,> and h, l to move to the previous/next line
+set encoding=utf-8 nobomb       " set the encoding used in vim, no BOM prepended
+set fileformat=unix             " set the file format to unix, e.g. <NL> (newline) is used instead of <CR><NL>
+syntax on                       " syntax highlighting
+set hlsearch                    " highlight all search results
+set ignorecase                  " case insensitive search
+set incsearch                   " show incremental search results
+set number                      " show line numbers
+set relativenumber              " show the line numbering relative to where you are 
+set noswapfile                  " disable swap files
+set showcmd                     " show the command being executed on the status bar
+```
+
+This is a very minimalistic configuration file, and I encourage you to investigate the many, many ways of configuring vim.
+
+
 [Next up, moving around](movement.md)

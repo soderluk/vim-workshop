@@ -7,7 +7,7 @@ Move around this file with the keys "hjkl", then try to go to the end of the fil
 Try to move by words with the "w"/"e" and "b" keys. NOTE: Here you can also use the modifiers, e.g. using a number before the key, you will jump that many words forward or backwards, e.g. "3w" jumps forward 3 words.
 
 
-Here's some text that you can work on. We're going to have some paragraphs, sentences and maybe some lorem ipsum to fill up the space. We'll have enough text so you can try out all the different types of movements, verbs and so on. We'll also have some typos, which you'll want to fix with the "c" key, perhaps something that needs to be removed with the "x" key and so onn.
+Here's some text that you can work on. We're going to have some paragraphs, sentences and maybe some lorem ipsum to fill up the space. We'll have enough text so you can try out all the different types of movements, verbs and so on. We'll also have some typos, which you'll want to fix with the "c" key, perhaps something that needs to be removed with the "x" key and so onn (you see what I did there?).
 
 Coorrecting text is somoetghing that you need too do when using vim to edit either normal text files or markdwn files. Go ahead and fix the issues with this paragraph.
 
@@ -18,9 +18,13 @@ You can also use "yank inside paragraph", which will copy the paragraph you're i
 --- paste here ---
 
 Go ahead and use the change to tag functionality, e.g. let's say that you should change text in the following sentence until the colon-sign (:).
-Place your cursor HERE, and use the change to tag functionality to replace the text until this colon-sign:
+Place your cursor HERE (on the H), and use the change to tag functionality to replace the text until this colon-sign:
 
 Now that you have those basics ready, here's some Samuel L. Ipsum for you to try out the moving on screen and perhaps searching for some words and replacing the words with something else. You may choose to do whatever you want with this text.
+
+Some ideas to work with: 
+- Find all occurences of the word "Lord" and replace it with "Lordi"
+- Move paragraphs around, e.g. cut some paragraphs and paste them somewhere else with just a few keystrokes
 
 
 --- SLIPSUM STARTS ---

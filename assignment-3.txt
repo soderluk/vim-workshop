@@ -2,7 +2,7 @@ In this assignment we're going to be using the visual mode, macros and registers
 
 We will have some text that you can select, modify etc. 
 
-Below you will find a shopping list, that should have a dash (-) at the beginning of the line. The list can be fixed in a few different ways. We'll have the same list here a couple of times, and you should use at least visual selection, the repeatable command and record a macro and apply it to the list.
+Below you will find a shopping list, that should have a dash (-) at the beginning of each line. The list can be fixed in a few different ways. We'll have the same list here a couple of times, and you should use at least visual selection, the repeatable command (.) and record a macro and apply it to the list.
 
 
 Shopping list (visual selection):

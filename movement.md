@@ -49,6 +49,18 @@ Bonus:
 Jump to your previous navigation location: `Ctrl-i`\
 Jump back to where you were: `Ctrl-o`
 
+## Searching text
+
+You can search for text by entering the search key `/{word to search}<CR>`, then navigate to the next occurrence with `n` and previous occurrence with `N`. You can start searching backwards by entering `?` instead of `/`.
+
+Search for string: `/{string}`\
+Jump to character: `t`\
+Jump onto character: `f`\
+Search for other instances of the word under your cursor: `*`\
+Go to the next instance when you've jumped to a character (with `f` or `t`): `;`\
+Go to the previous instance when you've jumped to a character (with `f` or `t`): `,`
+
+
 # Assignment 1
 
 Please read the instructions in the `assignment-1.txt` file, and try out the verbs, modifiers and nouns.
