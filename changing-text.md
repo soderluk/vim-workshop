@@ -23,7 +23,7 @@ Change whatever _movement_, e.g. a word (w), sentence (s) or paragraph (}): `c<m
 Change the current line from where you're at: `C`\
 Change up to the question mark: `ct?`\
 Substitute from where you are to the next command (noun): `s`\
-Substitute the entire current line: `S`
+Substitute the entire current line: `S`\
 Change the case of the character under your cursor: `~` (the tilde sign, works also on visual mode selected text)
 
 ## Basic options for deleting text

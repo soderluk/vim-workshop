@@ -45,11 +45,11 @@ Note that you can use the same set up for movement as well, e.g. move 3 words fo
 
 ## Working with your files
 
-Open your _file_ in vim: `vim file`
-Write your changes to the file: `:w`
-Quit without saving: `:q!`
-Write your changes and exit vim: `:wq`
-Save your file as: `:saveas /path/where/to`
+Open your _file_ in vim: `vim file`\
+Write your changes to the file: `:w`\
+Quit without saving: `:q!`\
+Write your changes and exit vim: `:wq`\
+Save your file as: `:saveas /path/where/to`\
 Faster way to do `:wq`: `ZZ`
 
 ## Configuration
