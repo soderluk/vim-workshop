@@ -37,4 +37,4 @@ Please read the instructions in the `assignment-2.txt` file, and try working on 
 
 [Assignment 2](assignment-2.txt)
 
-[Introduction](introduction.md) || [Next up - Visual mode](visual-mode.md)
+[Introduction](01-introduction.md) || [Next up - Visual mode](05-visual-mode.md)

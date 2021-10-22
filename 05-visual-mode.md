@@ -22,4 +22,4 @@ So you can select text, you can copy or cut the selected text with `y` or `d`, y
 
 Simple and elegant. Just remember what the different verbs, modifiers and nouns are. The above command is just a sequence of multiple verb+modifier+noun sets.
 
-[Introduction](introduction.md) || [Next up - Bonus](bonus.md)
+[Introduction](01-introduction.md) || [Next up - Macros and registers](06-macros-and-registers.md)
