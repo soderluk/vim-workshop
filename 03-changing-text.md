@@ -57,4 +57,4 @@ Paste the copied text after the current cursor position: `p`\
 Paste the copied text before the current cursor position: `P`
 
 
-[Introduction](introduction.md) || [Next up - Text objects](text-objects.md)
+[Introduction](01-introduction.md) || [Next up - Text objects](04-text-objects.md)

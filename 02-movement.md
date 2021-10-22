@@ -69,4 +69,4 @@ If you need help, just ask.
 
 [Assignment-1](assignment-1.txt)
 
-[Introduction](introduction.md) || [Next up, changing text](changing-text.md)
+[Introduction](01-introduction.md) || [Next up, changing text](03-changing-text.md)

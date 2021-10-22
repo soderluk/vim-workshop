@@ -80,4 +80,4 @@ set showcmd                     " show the command being executed on the status 
 This is a very minimalistic configuration file, and I encourage you to investigate the many, many ways of configuring vim.
 
 
-[Next up, moving around](movement.md)
+[Next up, moving around](02-movement.md)
